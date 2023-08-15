@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav {
+    margin: 10px;
+  }
+  
+  nav a {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    color: #555;
+  }
+  
+  ul {
+    list-style-type: circle;
+  }
+  
+  footer {
+    background-color: #eee;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  #facts {
+    background-color: #fafafa;
+  }
+
+  #dino-image {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: 10px auto;
+    border: 5px solid #4caf50;
+    border-radius: 10px;
+  }
+  
